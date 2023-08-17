@@ -5,12 +5,13 @@ name = "pypi"
 
 [packages]
 ipython = "*"
-jupyterlab = "*"
+ipykernel = "*"
 algebraic-data-types = "*"
-mypy = "*"
+
 plotly = "*"
 
 [dev-packages]
+mypy = "*"
 black = "*"
 flake8 = "*"
 
